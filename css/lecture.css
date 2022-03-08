@@ -5,3 +5,22 @@ h1 {
 h2 {
   text-align: center;
 }
+
+h2.intro {
+  color: red;
+  font-style: italic;
+}
+
+p.intro {
+  color: red;
+  font-style: italic;
+  text-align: center;
+}
+
+img.intro {
+  color: red;
+}
+
+p.center {
+  text-align: center;
+}
